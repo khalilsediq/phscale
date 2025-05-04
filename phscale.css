@@ -3,14 +3,15 @@
     padding: 0;
    
 }
-html{
+/* html{
     font-size: 10px;
-}
+} */
 body{
     background-color: #bebebf;
     margin: 30px 50px;
 }
 h1{
+    font-size: 3rem;
     background-color: #e2e2e2;
     padding: 15px;
     color: #635f59;
@@ -22,42 +23,42 @@ h1{
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-1{
     background-color: #2d86c7 ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-2{
     background-color: #3191cf ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-3{
     background-color: #1d9dd8 ;
     padding:10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-4{
     background-color: #33a6de ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-5{
     background-color: #58b6e7 ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 
 .ph-6{
@@ -65,61 +66,69 @@ h1{
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-7{
     background-color: #90caee ;
     padding: 10px;
     border-radius: 5px;
     color: #82a4c1;
-    font-size: 24px
+    font-size:  2.4rem;
 }
 .ph-8{
     background-color: #1bb584 ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-9{
     background-color: #f6b1cd ;
     padding:10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-10{
     background-color: #f49cc2 ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-11{
     background-color: #f28eb3 ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-12{
     background-color: #f179a6 ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-13{
     background-color: #f0588b ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
 }
 .ph-14{
     background-color: #ee387e ;
     padding: 10px;
     border-radius: 5px;
     color: #a6c4df;
-    font-size: 24px
+    font-size: 2.4rem;
+}
+@font-face {
+    font-family: 'montserrat';
+    src: url(./Font/Montserrat-VariableFont_wght.ttf);
+}
+html{
+    font-family: montserrat;
+    font-size: 62.5%;
 }
