@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background-color: #bebebf;
+    margin: 30px 50px;
+}
+h1{
+    background-color: #e2e2e2;
+    padding: 15px;
+    color: #635f59;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+.ph-0{
+    background-color: #2d86c7 ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-1{
+    background-color: #2d86c7 ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-2{
+    background-color: #3191cf ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-3{
+    background-color: #1d9dd8 ;
+    padding: 20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-4{
+    background-color: #33a6de ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-5{
+    background-color: #58b6e7 ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+
+.ph-6{
+    background-color: #73c1ec ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-7{
+    background-color: #90caee ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-8{
+    background-color: #1bb584 ;
+    padding: 5px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-9{
+    background-color: #f6b1cd ;
+    padding: 5px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-10{
+    background-color: #f49cc2 ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-11{
+    background-color: #f28eb3 ;
+    padding: 5px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-12{
+    background-color: #f179a6 ;
+    padding: 5px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-13{
+    background-color: #f0588b ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
+.ph-14{
+    background-color: #ee387e ;
+    padding:  20px;
+    border-radius: 20px;
+    color: #a6c4df;
+    font-size: 24px
+}
